@@ -1,5 +1,8 @@
 # CSCE 110 Lab 3 Question 4
-
+'''
+Script is used to calculate user birth day, user is asked if birth day is in 5 sets and calculates the day 
+based on the user response
+'''
 def calc(q_1, q_2, q_3, q_4, q_5):
     day = 0
     if q_1 == 'y':
